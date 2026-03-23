@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faiza</h1>
-<h3 align="center">AI/ML Engineer | Research-Oriented Developer</h3>
+<h3 align="center">AI/ML Enthusiast | Research-Oriented Developer</h3>
 
 ---
 
