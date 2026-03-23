@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faiza</h1>
-<h3 align="center">AI/ML Enthusiast | Research-Oriented Developer</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | 💻 Software Developer</h3>
 
 ---
 
@@ -30,35 +30,39 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-blue)
-![C++](https://img.shields.io/badge/C++-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![C++](https://img.shields.io/badge/C++-blue)
+
+---
+
 
 ### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple)
-![NLP](https://img.shields.io/badge/NLP-blue)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-green)
-![Signal Processing](https://img.shields.io/badge/Signal%20Processing-orange)
-
-### 🌐 Development (Supportive)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-purple)
+---
+### ⚙️ Development
+![React](https://img.shields.io/badge/React-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![Express.js](https://img.shields.io/badge/Express-black)
+
+---
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
 ---
 
 ## 📌 Featured Projects
 - 🤖 Predictive AI for Home Device Failure Prevention  
-  → ROC-AUC ≈ 0.98 using XGBoost, SMOTE, calibration  
+- 🧠 Neural Speech Disfluency Detection (Wav2Vec 2.0) 
 
-- 🧠 Neural Speech Disfluency Detection (Wav2Vec 2.0)  
-  → Transformer-based speech modeling with real-time remediation  
-
-- 🌍 Wanderlust – Travel Exploration Platform  
-  → Full-stack application with authentication, APIs, and dynamic listings  
+- 🌍 Wanderlust – Travel Exploration Platform    
 
 - ⚙️ ServeConnect – Service Request Management System  
-  → Backend-focused system with authentication & REST APIs  
 
 ---
 
@@ -66,11 +70,6 @@
 - 🥇 First Rank in Academics – Second Year  
 - 🥇 First Rank in Academics – Third Year (AIML)  
 - 🏆 Winner – Ideathon 2025  
-
----
-
-## 📊 GitHub Stats
-![Faiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiza-Bagban&show_icons=true&theme=tokyonight)
 
 ---
 
