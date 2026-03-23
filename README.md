@@ -20,7 +20,7 @@
 ## 🔥 Current Focus
 - 🧠 Speech Intelligence & Transformer-based models  
 - 🤖 Predictive AI systems with real-world impact  
-- 🧪 Researching Reinforcement Learning (RL) & Liquid Neural Networks (LNNs)  
+- 🧪 Reinforcement Learning (RL) & Liquid Neural Networks (LNNs)  
 - 📈 Model robustness, evaluation & optimization  
 - 🧩 Strengthening Data Structures & Algorithms (C++)  
 
